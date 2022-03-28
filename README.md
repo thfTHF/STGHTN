@@ -1,6 +1,6 @@
 # STGHTN:Spatial-Temporal Gated Hybrid Transformer Network for Traffic Flow Forecasting
 <p align="center">
-  <img width="1000"  src=.STGHTN/model/model.png>
+  <img width="1000"  src="https://github.com/IJCAI-22/STGHTN/blob/main/STGHTN/mould/model328.png">
 </p>
 
 
