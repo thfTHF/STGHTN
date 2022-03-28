@@ -1,6 +1,6 @@
-# MVSTT: A Multi-View Spatial-Temporal Transformer Network for Traffic Forecasting
+# STGHTN:Spatial-Temporal Gated Hybrid Transformer Network for Traffic Flow Forecasting
 <p align="center">
-  <img width="1000"  src=./model/model.png>
+  <img width="1000"  src=.STGHTN/model/model.png>
 </p>
 
 
